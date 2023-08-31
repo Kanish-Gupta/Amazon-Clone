@@ -9,12 +9,14 @@ Welcome to the Amazon Clone repository! This project is a demonstration of my sk
 You can view a live demo of the Amazon Website Clone [https://amazonmirror.netlify.app/]
 
 
+
 ## Technologies Used
 
 - HTML
 - CSS
+  
 
-##ScreenShots
+## ScreenShots
 
 ![image](https://github.com/Kanish-Gupta/Amazon-Clone/assets/117005598/844284fa-af3e-42c9-b398-6820952ca5e0)
 ![image](https://github.com/Kanish-Gupta/Amazon-Clone/assets/117005598/a3d98dd2-991a-41e4-8a16-74021b2de012)
